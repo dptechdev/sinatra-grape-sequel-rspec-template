@@ -2,7 +2,7 @@ class Main < Sinatra::Base
 
 
 	get '/' do 
-		"Hello World!"
+		"Hello from Sinatra!"
 	end
-
 end
+
