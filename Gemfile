@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 
-gem 'bson_ext'
+
 gem 'grape'
 gem 'grape-entity'
 gem 'rake'
