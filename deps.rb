@@ -7,6 +7,7 @@ require 'bundler'
 	grape
 	sequel
 	sinatra
+	
 ).each do |dep|
 	require dep 
 end
